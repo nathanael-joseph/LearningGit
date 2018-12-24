@@ -11,3 +11,9 @@ Check the email has been set correctly:
     $ git config --get user.email
 
 --- Initializing and cloning a repo ---
+Create a new project using:
+    $ git init "repository_name"
+Clone an existing project from github or elswhere using:
+    $ git clone repo_URL
+// Then be sure to change your working directory to the git directory.
+
