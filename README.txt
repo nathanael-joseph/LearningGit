@@ -16,3 +16,15 @@ Create a new project using:
 Clone an existing project from github or elswhere using:
     $ git clone repo_URL
 // Then be sure to change your working directory to the git directory.
+
+
+--- Modifying the project ---
+Add changes to the snapshot (that will be included in next commit).
+    $ git add [file]
+Add all changes
+    $ git add *
+Make a local commit
+    $ git commit -m [commit message]
+// this will commit all staged changes. 
+
+// this is another comment.
