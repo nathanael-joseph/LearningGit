@@ -26,5 +26,3 @@ Add all changes
 Make a local commit
     $ git commit -m [commit message]
 // this will commit all staged changes. 
-
-// this is another comment.
