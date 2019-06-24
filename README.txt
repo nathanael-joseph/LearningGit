@@ -16,4 +16,3 @@ Create a new project using:
 Clone an existing project from github or elswhere using:
     $ git clone repo_URL
 // Then be sure to change your working directory to the git directory.
-
